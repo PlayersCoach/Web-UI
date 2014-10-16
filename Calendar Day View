@@ -1,0 +1,588 @@
+/* Rectangle 1: */
+background: #D8D8D8;
+
+border-radius: 8px;
+/* Rectangle 434: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Account 2: */
+
+/* Triangle 14: */
+
+-webkit-transform: rotate(180deg);
+-moz-transform: rotate(180deg);
+-ms-transform: rotate(180deg);
+-o-transform: rotate(180deg);
+transform: rotate(180deg);
+
+-webkit-transform: rotate(180deg);
+-moz-transform: rotate(180deg);
+-ms-transform: rotate(180deg);
+-o-transform: rotate(180deg);
+transform: rotate(180deg);
+background: #2E629B;
+border: 1px solid #000000;
+
+font-family: UniversalisADFStd-Regular;
+font-size: 28px;
+color: #000000;
+line-height: 36px;
+/* PLAYERS: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 35px;
+color: #2E629B;
+line-height: 43px;
+/* COACH: */
+
+/* Line: */
+border: 2px solid #000000;
+
+/* Rectangle 2: */
+background: #D8D8D8;
+
+/* Rectangle 3: */
+background: #979797;
+
+/* Rectangle 4: */
+background: #2E629B;
+
+/* Rectangle 5: */
+background: #979797;
+
+/* Rectangle 6: */
+background: #979797;
+
+/* Rectangle 7: */
+background: #979797;
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Profiles: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #FFFFFF;
+line-height: 36px;
+/* Calendar: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Video Manager: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Follower Manager: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Quiz Manager: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 20px;
+color: #000000;
+line-height: 25px;
+/* Welcome back, USC Tr: */
+
+font-family: AvenirNext-Regular;
+font-size: 72px;
+color: #000000;
+line-height: 98px;
+/* Dashboard: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 36px;
+color: #000000;
+line-height: 49px;
+/* Logout: */
+
+/* Line: */
+border: 2px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 8: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Week: */
+
+/* Line: */
+border: 1px solid #979797;
+
+/* Line 2: */
+border: 1px solid #979797;
+
+/* Triangle 1: */
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+background: #4A90E2;
+
+/* Triangle 2: */
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+background: #4A90E2;
+
+/* Line: */
+border: 1px solid #979797;
+
+/* Line: */
+border: 1px solid #979797;
+
+/* Rectangle 9: */
+background: #2E629B;
+-moz-box-shadow:    inset 2px 2px 3px 0px rgba(0,0,0,0.50), inset -2px -2px 3px 0px rgba(0,0,0,0.50);
+box-shadow:         inset 2px 2px 3px 0px rgba(0,0,0,0.50), inset -2px -2px 3px 0px rgba(0,0,0,0.50);
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #FFFFFF;
+line-height: 27px;
+/* Day: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Month: */
+
+/* Rectangle 10: */
+background: #000000;
+
+/* Rectangle 11: */
+background: #000000;
+border: 1px solid #979797;
+
+/* Triangle 4: */
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+background: #FFFFFF;
+
+/* Rectangle 13: */
+background: #000000;
+border: 1px solid #979797;
+
+/* Rectangle 12: */
+background: #000000;
+border: 1px solid #979797;
+
+/* Rectangle 22: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 23: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Search: */
+
+border-radius: 8px;
+/* Rectangle 16: */
+background: #D8D8D8;
+border: 1px solid #979797;
+-moz-box-shadow:    inset 3px 3px 3px 0px rgba(0,0,0,0.50), inset -3px -3px 3px 0px rgba(0,0,0,0.50);
+box-shadow:         inset 3px 3px 3px 0px rgba(0,0,0,0.50), inset -3px -3px 3px 0px rgba(0,0,0,0.50);
+
+border-radius: 8px;
+/* Rectangle 17: */
+background: #2E629B;
+-moz-box-shadow:    inset 2px 0px 3px 0px rgba(0,0,0,0.50), inset -2px -2px 3px 0px rgba(0,0,0,0.50);
+box-shadow:         inset 2px 0px 3px 0px rgba(0,0,0,0.50), inset -2px -2px 3px 0px rgba(0,0,0,0.50);
+
+font-family: AvenirNext-UltraLight;
+font-size: 22px;
+color: #FFFFFF;
+line-height: 30px;
+/* Video Library: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 22px;
+color: #000000;
+line-height: 30px;
+/* Quiz Library: */
+
+/* Triangle 3: */
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+background: #FFFFFF;
+
+/* Triangle 5: */
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+background: #FFFFFF;
+
+/* Triangle 6: */
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+background: #FFFFFF;
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #FFFFFF;
+line-height: 27px;
+/* Bench Press: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #FFFFFF;
+line-height: 27px;
+/* Squats: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #FFFFFF;
+line-height: 27px;
+/* Power Cleans: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #FFFFFF;
+line-height: 27px;
+/* Squat Press: */
+
+/* Rectangle 14: */
+background: #000000;
+border: 1px solid #979797;
+
+/* Triangle 7: */
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+background: #FFFFFF;
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #FFFFFF;
+line-height: 27px;
+/* 8 Play Drive: */
+
+/* Rectangle 15: */
+background: #000000;
+border: 1px solid #979797;
+
+/* Triangle 8: */
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+background: #FFFFFF;
+
+/* Rectangle 20: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+/* Rectangle 21: */
+background: #EDEDED;
+border: 1px solid #000000;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #4A4A4A;
+line-height: 33px;
+/* This is Monday worko: */
+
+/* Rectangle 28: */
+background: #000000;
+
+/* Rectangle 26: */
+background: #EDEDED;
+border: 1px solid #000000;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Bench Press: */
+border: 1px solid #979797;
+
+/* Rectangle 29: */
+background: #000000;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Squat: */
+border: 1px solid #979797;
+
+/* Rectangle 30: */
+background: #000000;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Power Clean: */
+border: 1px solid #979797;
+
+/* Rectangle 31: */
+background: #000000;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Incline Press: */
+border: 1px solid #979797;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #4A4A4A;
+line-height: 33px;
+/* This is Monday worko 2: */
+
+/* Rectangle 32: */
+background: #000000;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Bench Press 2: */
+border: 1px solid #979797;
+
+/* Rectangle 33: */
+background: #000000;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Squat 2: */
+border: 1px solid #979797;
+
+/* Rectangle 34: */
+background: #000000;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Power Clean 2: */
+border: 1px solid #979797;
+
+/* Rectangle 35: */
+background: #000000;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Incline Press 2: */
+border: 1px solid #979797;
+
+/* Rectangle 27: */
+background: #EDEDED;
+border: 1px solid #000000;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #4A4A4A;
+line-height: 33px;
+/* This is Monday worko 3: */
+
+/* Rectangle 36: */
+background: #000000;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Bench Press 3: */
+border: 1px solid #979797;
+
+/* Rectangle 37: */
+background: #000000;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Squat 3: */
+border: 1px solid #979797;
+
+/* Rectangle 38: */
+background: #000000;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Power Clean 3: */
+border: 1px solid #979797;
+
+/* Rectangle 39: */
+background: #000000;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Incline Press 3: */
+border: 1px solid #979797;
+
+/* Rectangle 22: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+/* Rectangle 24: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+/* Rectangle 25: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: UniversalisADFStd-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 29px;
+/* Videos: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 29px;
+/* Description: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 29px;
+/* Quiz: */
+
+border-radius: 8px;
+/* Rectangle 25: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+/* Line: */
+border: 1px solid #979797;
+
+/* Line 3: */
+border: 1px solid #979797;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Monday Feb 4th, 2015: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Tuesday Feb 5th, 201: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Wenesday Feb 6th, 20: */
+
+/* Rectangle 40: */
+background: #F5A623;
+
+font-family: AvenirNext-UltraLight;
+font-size: 24px;
+color: #4A4A4A;
+line-height: 33px;
+/* Body Recovery Quiz: */
