@@ -1,0 +1,699 @@
+/* Rectangle 1: */
+background: #D8D8D8;
+
+border-radius: 8px;
+/* Rectangle 435: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Account 3: */
+
+/* Triangle 15: */
+
+-webkit-transform: rotate(180deg);
+-moz-transform: rotate(180deg);
+-ms-transform: rotate(180deg);
+-o-transform: rotate(180deg);
+transform: rotate(180deg);
+
+-webkit-transform: rotate(180deg);
+-moz-transform: rotate(180deg);
+-ms-transform: rotate(180deg);
+-o-transform: rotate(180deg);
+transform: rotate(180deg);
+background: #2E629B;
+border: 1px solid #000000;
+
+font-family: UniversalisADFStd-Regular;
+font-size: 28px;
+color: #000000;
+line-height: 36px;
+/* PLAYERS: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 35px;
+color: #2E629B;
+line-height: 43px;
+/* COACH: */
+
+/* Line: */
+border: 2px solid #000000;
+
+/* Rectangle 2: */
+background: #D8D8D8;
+
+/* Rectangle 3: */
+background: #979797;
+
+/* Rectangle 4: */
+background: #2E629B;
+
+/* Rectangle 5: */
+background: #979797;
+
+/* Rectangle 6: */
+background: #979797;
+
+/* Rectangle 7: */
+background: #979797;
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Profiles: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #FFFFFF;
+line-height: 36px;
+/* Calendar: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Video Manager: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Follower Manager: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Quiz Manager: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 20px;
+color: #000000;
+line-height: 25px;
+/* Welcome back, USC Tr: */
+
+font-family: AvenirNext-Regular;
+font-size: 72px;
+color: #000000;
+line-height: 98px;
+/* Dashboard: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 36px;
+color: #000000;
+line-height: 49px;
+/* Logout: */
+
+/* Line: */
+border: 2px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 8: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+/* Line: */
+border: 1px solid #979797;
+
+/* Line 2: */
+border: 1px solid #979797;
+
+/* Triangle 1: */
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+background: #4A90E2;
+
+/* Triangle 2: */
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+background: #4A90E2;
+
+/* Line: */
+border: 1px solid #979797;
+
+/* Line: */
+border: 1px solid #979797;
+
+/* Rectangle 9: */
+background: #2E629B;
+-moz-box-shadow:    inset 2px 2px 3px 0px rgba(0,0,0,0.50), inset -2px -2px 3px 0px rgba(0,0,0,0.50);
+box-shadow:         inset 2px 2px 3px 0px rgba(0,0,0,0.50), inset -2px -2px 3px 0px rgba(0,0,0,0.50);
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #FFFFFF;
+line-height: 27px;
+/* Week: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Day: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Month: */
+
+/* Rectangle 57: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 59: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 64: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 63: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 67: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 65: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 66: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 57: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 59: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 64: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 63: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 67: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 65: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 66: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 58: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 60: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 68: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 69: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 70: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 71: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 72: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 57: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 59: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 64: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 63: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 67: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 65: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Friday: */
+
+/* Rectangle 66: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 58: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 60: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 68: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 69: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 70: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 71: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Rectangle 72: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 3: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 10: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 8: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 7: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 9: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 11: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 12: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 13: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 17: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 15: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 14: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 16: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 18: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 19: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 20: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 24: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 22: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 21: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 23: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 25: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 26: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 27: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 31: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 29: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 28: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 30: */
+
+/* Rectangle 92: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Thursday: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Sunday: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Monday: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Tuesday: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Wednesday: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Friday: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Saturday: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 1: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 2: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 4: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 5: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* 6: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 2: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 3: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 4: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 5: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 6: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 8: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 7: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 10: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 9: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 20: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 11: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 12: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 13: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 22: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 21: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 23: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 14: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 15: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 16: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 17: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 18: */
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* 6 Videos 19: */
