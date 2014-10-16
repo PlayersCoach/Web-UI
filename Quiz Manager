@@ -1,0 +1,378 @@
+/* Rectangle 1: */
+background: #D8D8D8;
+
+font-family: UniversalisADFStd-Regular;
+font-size: 28px;
+color: #000000;
+line-height: 36px;
+/* PLAYERS: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 35px;
+color: #2E629B;
+line-height: 43px;
+/* COACH: */
+
+/* Line: */
+border: 2px solid #000000;
+
+/* Rectangle 2: */
+background: #D8D8D8;
+
+/* Rectangle 3: */
+background: #979797;
+
+/* Rectangle 4: */
+background: #979797;
+
+/* Rectangle 5: */
+background: #979797;
+
+/* Rectangle 6: */
+background: #979797;
+
+/* Rectangle 7: */
+background: #2E629B;
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Profiles: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Calendar: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Video Manager: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Follower Manager: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #FFFFFF;
+line-height: 36px;
+/* Quiz Manager: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 20px;
+color: #000000;
+line-height: 25px;
+/* Welcome back, USC Tr: */
+
+font-family: AvenirNext-Regular;
+font-size: 72px;
+color: #000000;
+line-height: 98px;
+/* Dashboard: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 36px;
+color: #000000;
+line-height: 49px;
+/* Logout: */
+
+/* Line 5: */
+border: 2px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 10: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+/* Line 6: */
+border: 1px solid #979797;
+
+/* Line 7: */
+border: 1px solid #979797;
+
+/* Triangle 5: */
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+background: #4A90E2;
+
+/* Triangle 6: */
+background: #4A90E2;
+
+/* Rectangle 11: */
+background: #2E629B;
+-moz-box-shadow:    inset 2px 2px 3px 0px rgba(0,0,0,0.50), inset -2px -2px 3px 0px rgba(0,0,0,0.50);
+box-shadow:         inset 2px 2px 3px 0px rgba(0,0,0,0.50), inset -2px -2px 3px 0px rgba(0,0,0,0.50);
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #FFFFFF;
+line-height: 27px;
+/* Upload 2: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Library 2: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Results: */
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Sport 2: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Question: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Title 5: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Selection: */
+
+border-radius: 8px;
+/* Rectangle 505: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 492: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Football 5: */
+
+border-radius: 8px;
+/* Rectangle 491: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Sport 5: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Question: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Selection: */
+
+border-radius: 8px;
+/* Rectangle 511: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 513: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Football 6: */
+
+border-radius: 8px;
+/* Rectangle 514: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Sport 6: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Question: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Selection: */
+
+border-radius: 8px;
+/* Rectangle 515: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 517: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Football 7: */
+
+border-radius: 8px;
+/* Rectangle 518: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Sport 4: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Question: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Selection: */
+
+border-radius: 8px;
+/* Rectangle 519: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 521: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Football 8: */
+
+border-radius: 8px;
+/* Rectangle 522: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 523: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Title 6: */
+
+border-radius: 8px;
+/* Rectangle 524: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Title 7: */
+
+border-radius: 8px;
+/* Rectangle 525: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Title 4: */
+
+border-radius: 8px;
+/* Rectangle 526: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 512: */
+background: #2E629B;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Upload: */
+
+border-radius: 8px;
+/* Rectangle 512: */
+background: #2E629B;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Upload: */
+
+border-radius: 8px;
+/* Rectangle 512: */
+background: #2E629B;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Upload: */
+
+border-radius: 8px;
+/* Rectangle 512: */
+background: #2E629B;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Upload: */
