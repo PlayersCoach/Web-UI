@@ -1,0 +1,399 @@
+/* Rectangle 1: */
+background: #D8D8D8;
+
+font-family: UniversalisADFStd-Regular;
+font-size: 28px;
+color: #000000;
+line-height: 36px;
+/* PLAYERS: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 35px;
+color: #2E629B;
+line-height: 43px;
+/* COACH: */
+
+/* Line: */
+border: 2px solid #000000;
+
+/* Rectangle 2: */
+background: #D8D8D8;
+
+/* Rectangle 3: */
+background: #2E629B;
+
+/* Rectangle 4: */
+background: #979797;
+
+/* Rectangle 5: */
+background: #979797;
+
+/* Rectangle 6: */
+background: #979797;
+
+/* Rectangle 7: */
+background: #979797;
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #FFFFFF;
+line-height: 36px;
+/* Profiles: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Calendar: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Video Manager: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Follower Manager: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Quiz Manager: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 20px;
+color: #000000;
+line-height: 25px;
+/* Welcome back, USC Tr: */
+
+font-family: AvenirNext-Regular;
+font-size: 72px;
+color: #000000;
+line-height: 98px;
+/* Dashboard: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 36px;
+color: #000000;
+line-height: 49px;
+/* Logout: */
+
+/* Line 2: */
+border: 2px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 433: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Account: */
+
+/* Triangle 13: */
+
+-webkit-transform: rotate(180deg);
+-moz-transform: rotate(180deg);
+-ms-transform: rotate(180deg);
+-o-transform: rotate(180deg);
+transform: rotate(180deg);
+
+-webkit-transform: rotate(180deg);
+-moz-transform: rotate(180deg);
+-ms-transform: rotate(180deg);
+-o-transform: rotate(180deg);
+transform: rotate(180deg);
+background: #2E629B;
+border: 1px solid #000000;
+
+border-radius: 8px;
+/* Rectangle 434: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Account 2: */
+
+/* Triangle 14: */
+
+-webkit-transform: rotate(180deg);
+-moz-transform: rotate(180deg);
+-ms-transform: rotate(180deg);
+-o-transform: rotate(180deg);
+transform: rotate(180deg);
+
+-webkit-transform: rotate(180deg);
+-moz-transform: rotate(180deg);
+-ms-transform: rotate(180deg);
+-o-transform: rotate(180deg);
+transform: rotate(180deg);
+background: #2E629B;
+border: 1px solid #000000;
+
+font-family: AvenirNext-Regular;
+font-size: 40px;
+color: #000000;
+line-height: 55px;
+/* New Public Profile: */
+
+border-radius: 8px;
+/* Rectangle 449: */
+background: #EDEDED;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 40px;
+color: #000000;
+line-height: 55px;
+/* Profile Bio:: */
+
+font-family: AvenirNext-Regular;
+font-size: 40px;
+color: #000000;
+line-height: 55px;
+/* Last Name: */
+
+font-family: AvenirNext-Regular;
+font-size: 40px;
+color: #000000;
+line-height: 55px;
+/* First Name: */
+
+border-radius: 8px;
+/* Rectangle 449: */
+background: #979797;
+
+/* Oval 5: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 100px;
+color: #21AA00;
+line-height: 137px;
+/* + 2: */
+
+font-family: AvenirNext-Regular;
+font-size: 100px;
+color: #21AA00;
+line-height: 137px;
+/* + 3: */
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Add Profile Image: */
+
+font-family: AvenirNext-Regular;
+font-size: 36px;
+color: #000000;
+line-height: 49px;
+/* Add Background Image: */
+
+/* Line: */
+border: 1px solid #979797;
+
+/* Line: */
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 40px;
+color: #000000;
+line-height: 55px;
+/* Phone Number: */
+
+/* Line 3: */
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 476: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* This is a new profil: */
+
+/* Fill 194: */
+background: #000000;
+
+font-family: AvenirNext-Medium;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Send New Message 2: */
+
+/* Rectangle 464: */
+background: rgba(0,0,0,0.90);
+
+border-radius: 8px;
+/* Rectangle 710: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 436: */
+/* Sketch doesnt export pattern fills at this point */
+
+border-radius: 8px;
+/* Rectangle 706: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+/* Triangle 78: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Medium;
+font-size: 40px;
+color: #000000;
+line-height: 55px;
+/* To: : */
+
+font-family: AvenirNext-Medium;
+font-size: 50px;
+color: #FFFFFF;
+line-height: 68px;
+/* New Message: */
+
+font-family: AvenirNext-Regular;
+font-size: 40px;
+color: #FFFFFF;
+line-height: 55px;
+/* Coach Ivan Lewis 3: */
+
+/* Oval 3: */
+/* Sketch doesnt export pattern fills at this point */
+
+border-radius: 8px;
+/* Rectangle 704: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+/* Triangle 77: */
+
+-webkit-transform: rotate(180deg);
+-moz-transform: rotate(180deg);
+-ms-transform: rotate(180deg);
+-o-transform: rotate(180deg);
+transform: rotate(180deg);
+
+-webkit-transform: rotate(180deg);
+-moz-transform: rotate(180deg);
+-ms-transform: rotate(180deg);
+-o-transform: rotate(180deg);
+transform: rotate(180deg);
+background: #2E629B;
+
+font-family: AvenirNext-Medium;
+font-size: 40px;
+color: #000000;
+line-height: 55px;
+/* Profile: */
+
+border-radius: 8px;
+/* Rectangle 707: */
+background: #2E629B;
+
+font-family: AvenirNext-Medium;
+font-size: 36px;
+color: #000000;
+line-height: 49px;
+/* Select Group: */
+
+/* Triangle 79: */
+
+-webkit-transform: rotate(180deg);
+-moz-transform: rotate(180deg);
+-ms-transform: rotate(180deg);
+-o-transform: rotate(180deg);
+transform: rotate(180deg);
+
+-webkit-transform: rotate(180deg);
+-moz-transform: rotate(180deg);
+-ms-transform: rotate(180deg);
+-o-transform: rotate(180deg);
+transform: rotate(180deg);
+background: #D8D8D8;
+
+font-family: AvenirNext-Medium;
+font-size: 36px;
+color: #000000;
+line-height: 49px;
+/* Message: */
+
+border-radius: 8px;
+/* Rectangle 708: */
+background: #FFFFFF;
+
+font-family: AvenirNext-Medium;
+font-size: 36px;
+color: #000000;
+line-height: 49px;
+/* Attach Video: */
+
+font-family: AvenirNext-Medium;
+font-size: 36px;
+color: #000000;
+line-height: 49px;
+/* Attach Profile: */
+
+/* Line: */
+border: 2px solid #000000;
+
+font-family: AvenirNext-Regular;
+font-size: 100px;
+color: #21AA00;
+line-height: 137px;
+/* + 4: */
+
+font-family: AvenirNext-Regular;
+font-size: 100px;
+color: #21AA00;
+line-height: 137px;
+/* + 5: */
+
+font-family: AvenirNext-Medium;
+font-size: 36px;
+color: #FFFFFF;
+line-height: 49px;
+/* Attachments: */
+
+border-radius: 8px;
+/* Rectangle 709: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 711: */
+background: #FFFFFF;
+
+border-radius: 8px;
+/* Rectangle 712: */
+background: #2E629B;
+-moz-box-shadow:    inset 4px 4px 3px 0px rgba(0,0,0,0.50), inset -4px -2px 3px 0px rgba(0,0,0,0.50);
+box-shadow:         inset 4px 4px 3px 0px rgba(0,0,0,0.50), inset -4px -2px 3px 0px rgba(0,0,0,0.50);
+
+font-family: AvenirNext-Regular;
+font-size: 36px;
+color: #FFFFFF;
+line-height: 49px;
+/* Video: */
+
+font-family: AvenirNext-Regular;
+font-size: 36px;
+color: #000000;
+line-height: 49px;
+/* Profiles: */
