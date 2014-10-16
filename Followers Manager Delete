@@ -1,0 +1,430 @@
+/* Rectangle 1: */
+background: #D8D8D8;
+
+font-family: UniversalisADFStd-Regular;
+font-size: 28px;
+color: #000000;
+line-height: 36px;
+/* PLAYERS: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 35px;
+color: #2E629B;
+line-height: 43px;
+/* COACH: */
+
+/* Line: */
+border: 2px solid #000000;
+
+/* Rectangle 2: */
+background: #D8D8D8;
+
+/* Rectangle 3: */
+background: #979797;
+
+/* Rectangle 4: */
+background: #979797;
+
+/* Rectangle 5: */
+background: #979797;
+
+/* Rectangle 6: */
+background: #2E629B;
+
+/* Rectangle 7: */
+background: #979797;
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Profiles: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Calendar: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Video Manager: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #FFFFFF;
+line-height: 36px;
+/* Follower Manager: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Quiz Manager: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 20px;
+color: #000000;
+line-height: 25px;
+/* Welcome back, USC Tr: */
+
+font-family: AvenirNext-Regular;
+font-size: 72px;
+color: #000000;
+line-height: 98px;
+/* Dashboard: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 36px;
+color: #000000;
+line-height: 49px;
+/* Logout: */
+
+border-radius: 8px;
+/* Rectangle 10: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+/* Line 6: */
+border: 1px solid #979797;
+
+/* Line 7: */
+border: 1px solid #979797;
+
+/* Triangle 5: */
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+background: #4A90E2;
+
+/* Triangle 6: */
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+background: #4A90E2;
+
+/* Rectangle 11: */
+background: #2E629B;
+-moz-box-shadow:    inset 2px 2px 3px 0px rgba(0,0,0,0.50), inset -2px -2px 3px 0px rgba(0,0,0,0.50);
+box-shadow:         inset 2px 2px 3px 0px rgba(0,0,0,0.50), inset -2px -2px 3px 0px rgba(0,0,0,0.50);
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Send Access: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #FFFFFF;
+line-height: 27px;
+/* Followers: */
+
+/* Line 4: */
+border: 2px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 434: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Medium;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Account 2: */
+
+/* Triangle 14: */
+
+-webkit-transform: rotate(180deg);
+-moz-transform: rotate(180deg);
+-ms-transform: rotate(180deg);
+-o-transform: rotate(180deg);
+transform: rotate(180deg);
+
+-webkit-transform: rotate(180deg);
+-moz-transform: rotate(180deg);
+-ms-transform: rotate(180deg);
+-o-transform: rotate(180deg);
+transform: rotate(180deg);
+background: #2E629B;
+border: 1px solid #000000;
+
+border-radius: 8px;
+/* Rectangle 435: */
+/* Sketch doesnt export pattern fills at this point */
+
+font-family: AvenirNext-Regular;
+font-size: 40px;
+color: #FFFFFF;
+line-height: 55px;
+/* Coach Ivan Lewis 2: */
+
+/* Oval 3: */
+/* Sketch doesnt export pattern fills at this point */
+
+border-radius: 8px;
+/* Rectangle 436: */
+/* Sketch doesnt export pattern fills at this point */
+
+font-family: AvenirNext-Regular;
+font-size: 40px;
+color: #FFFFFF;
+line-height: 55px;
+/* Offensive Line 2: */
+
+/* Oval 4: */
+/* Sketch doesnt export pattern fills at this point */
+
+font-family: AvenirNext-Medium;
+font-size: 40px;
+color: #000000;
+line-height: 55px;
+/* Private Profiles 2: */
+
+/* Line: */
+border: 5px solid #979797;
+
+font-family: AvenirNext-Medium;
+font-size: 40px;
+color: #000000;
+line-height: 55px;
+/* Public Profile: */
+
+font-family: AvenirNext-Medium;
+font-size: 40px;
+color: #000000;
+line-height: 55px;
+/* Followers: */
+
+font-family: AvenirNext-Medium;
+font-size: 40px;
+color: #000000;
+line-height: 55px;
+/* Followers: */
+
+border-radius: 8px;
+/* Rectangle 604: */
+background: rgba(46,97,155,0.80);
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Delete User: */
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Text: */
+
+/* Oval 5: */
+/* Sketch doesnt export pattern fills at this point */
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Text: */
+
+/* Oval 5: */
+/* Sketch doesnt export pattern fills at this point */
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Text: */
+
+/* Oval 5: */
+/* Sketch doesnt export pattern fills at this point */
+
+/* Rectangle 570: */
+background: #D0021B;
+
+/* Rectangle 571: */
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+background: #D0021B;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Delete User: */
+
+/* Rectangle 570: */
+background: #D0021B;
+
+/* Rectangle 571: */
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+background: #D0021B;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Delete User: */
+
+/* Rectangle 570: */
+background: #D0021B;
+
+/* Rectangle 571: */
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+background: #D0021B;
+
+border-radius: 8px;
+/* Rectangle 604: */
+background: rgba(46,97,155,0.80);
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Block User: */
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Text: */
+
+/* Oval 5: */
+/* Sketch doesnt export pattern fills at this point */
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Text: */
+
+/* Oval 5: */
+/* Sketch doesnt export pattern fills at this point */
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Text: */
+
+/* Oval 5: */
+/* Sketch doesnt export pattern fills at this point */
+
+/* Rectangle 570: */
+background: #D0021B;
+
+/* Rectangle 571: */
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+background: #D0021B;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Block User: */
+
+/* Rectangle 570: */
+background: #D0021B;
+
+/* Rectangle 571: */
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+background: #D0021B;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Block User: */
+
+/* Rectangle 570: */
+background: #D0021B;
+
+/* Rectangle 571: */
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+background: #D0021B;
