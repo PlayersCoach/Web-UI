@@ -1,0 +1,494 @@
+/* Rectangle 1: */
+background: #D8D8D8;
+
+border-radius: 8px;
+/* Rectangle 9: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+/* Line 4: */
+border: 1px solid #979797;
+
+/* Line 5: */
+border: 1px solid #979797;
+
+/* Triangle 3: */
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+background: #4A90E2;
+
+/* Triangle 4: */
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+background: #4A90E2;
+
+/* Rectangle 10: */
+background: #2E629B;
+-moz-box-shadow:    inset 2px 2px 3px 0px rgba(0,0,0,0.50), inset -2px -2px 3px 0px rgba(0,0,0,0.50);
+box-shadow:         inset 2px 2px 3px 0px rgba(0,0,0,0.50), inset -2px -2px 3px 0px rgba(0,0,0,0.50);
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #FFFFFF;
+line-height: 27px;
+/* Upload: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Library: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 28px;
+color: #000000;
+line-height: 36px;
+/* PLAYERS: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 35px;
+color: #2E629B;
+line-height: 43px;
+/* COACH: */
+
+/* Line: */
+border: 2px solid #000000;
+
+/* Rectangle 2: */
+background: #D8D8D8;
+
+/* Rectangle 3: */
+background: #979797;
+
+/* Rectangle 4: */
+background: #979797;
+
+/* Rectangle 5: */
+background: #2E629B;
+
+/* Rectangle 6: */
+background: #979797;
+
+/* Rectangle 7: */
+background: #979797;
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Profiles: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Calendar: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #FFFFFF;
+line-height: 36px;
+/* Video Manager: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Follower Manager: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Quiz Manager: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 20px;
+color: #000000;
+line-height: 25px;
+/* Welcome back, USC Tr: */
+
+font-family: AvenirNext-Regular;
+font-size: 72px;
+color: #000000;
+line-height: 98px;
+/* Dashboard: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 36px;
+color: #000000;
+line-height: 49px;
+/* Logout: */
+
+/* Line 3: */
+border: 2px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 40px;
+color: #000000;
+line-height: 55px;
+/* Upload Video: */
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Sport: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Description: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Title: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Keywords: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Video File: */
+
+border-radius: 8px;
+/* Rectangle 489: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 492: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 491: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Football: */
+
+border-radius: 8px;
+/* Rectangle 490: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Sport 2: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Description 2: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Keywords 2: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Video File 2: */
+
+border-radius: 8px;
+/* Rectangle 493: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 494: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 495: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Football 2: */
+
+border-radius: 8px;
+/* Rectangle 496: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Sport 4: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Description 3: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Keywords 3: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Video File 3: */
+
+border-radius: 8px;
+/* Rectangle 497: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 498: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 499: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Football 3: */
+
+border-radius: 8px;
+/* Rectangle 500: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Sport 3: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Description 4: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Keywords 4: */
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Video File 4: */
+
+border-radius: 8px;
+/* Rectangle 501: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 502: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 503: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Football 4: */
+
+border-radius: 8px;
+/* Rectangle 504: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+/* Line: */
+border: 3px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Upload Status: */
+
+/* Rectangle 505: */
+background: #2E629B;
+/* Sketch doesnt export pattern fills at this point */
+border: 1px solid #000000;
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* 90%: */
+
+font-family: AvenirNext-Regular;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Football - Bench Pre: */
+
+/* Rectangle 510: */
+background: #2E629B;
+/* Sketch doesnt export pattern fills at this point */
+border: 1px solid #000000;
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* 70%: */
+
+font-family: AvenirNext-Regular;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Football - Bench Pre 2: */
+
+/* Rectangle 511: */
+background: #2E629B;
+/* Sketch doesnt export pattern fills at this point */
+border: 1px solid #000000;
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* 63%: */
+
+font-family: AvenirNext-Regular;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Football - Bench Pre 3: */
+
+border-radius: 8px;
+/* Rectangle 506: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Title 2: */
+
+border-radius: 8px;
+/* Rectangle 507: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Title 4: */
+
+border-radius: 8px;
+/* Rectangle 508: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #000000;
+line-height: 33px;
+/* Title 3: */
+
+border-radius: 8px;
+/* Rectangle 509: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 512: */
+background: #2E629B;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Upload: */
+
+border-radius: 8px;
+/* Rectangle 512: */
+background: #2E629B;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Upload: */
+
+border-radius: 8px;
+/* Rectangle 512: */
+background: #2E629B;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Upload: */
+
+border-radius: 8px;
+/* Rectangle 512: */
+background: #2E629B;
+
+font-family: AvenirNext-Regular;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 33px;
+/* Upload: */
