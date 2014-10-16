@@ -1,0 +1,83 @@
+/* Rectangle 1: */
+background: #D8D8D8;
+
+font-family: UniversalisADFStd-Regular;
+font-size: 28px;
+color: #000000;
+line-height: 36px;
+/* PLAYERS: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 35px;
+color: #2E629B;
+line-height: 43px;
+/* COACH: */
+
+/* Line: */
+border: 2px solid #000000;
+
+/* Rectangle 2: */
+background: #D8D8D8;
+
+/* Rectangle 3: */
+background: #979797;
+
+/* Rectangle 4: */
+background: #979797;
+
+/* Rectangle 5: */
+background: #979797;
+
+/* Rectangle 6: */
+background: #979797;
+
+/* Rectangle 7: */
+background: #979797;
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Profiles: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Calendar: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Video Manager: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Follower Manager: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Quiz Manager: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 20px;
+color: #000000;
+line-height: 25px;
+/* Welcome back, USC Tr: */
+
+font-family: AvenirNext-Regular;
+font-size: 72px;
+color: #000000;
+line-height: 98px;
+/* Dashboard: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 36px;
+color: #000000;
+line-height: 49px;
+/* Logout: */
