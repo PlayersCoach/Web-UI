@@ -1,0 +1,429 @@
+/* Rectangle 1: */
+background: #D8D8D8;
+
+font-family: UniversalisADFStd-Regular;
+font-size: 28px;
+color: #000000;
+line-height: 36px;
+/* PLAYERS: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 35px;
+color: #2E629B;
+line-height: 43px;
+/* COACH: */
+
+/* Line: */
+border: 2px solid #000000;
+
+/* Rectangle 2: */
+background: #D8D8D8;
+
+/* Rectangle 3: */
+background: #979797;
+
+/* Rectangle 4: */
+background: #979797;
+
+/* Rectangle 5: */
+background: #979797;
+
+/* Rectangle 6: */
+background: #979797;
+
+/* Rectangle 7: */
+background: #2E629B;
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Profiles: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Calendar: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Video Manager: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #000000;
+line-height: 36px;
+/* Follower Manager: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 26px;
+color: #FFFFFF;
+line-height: 36px;
+/* Quiz Manager: */
+
+font-family: UniversalisADFStd-Regular;
+font-size: 20px;
+color: #000000;
+line-height: 25px;
+/* Welcome back, USC Tr: */
+
+font-family: AvenirNext-Regular;
+font-size: 72px;
+color: #000000;
+line-height: 98px;
+/* Dashboard: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 36px;
+color: #000000;
+line-height: 49px;
+/* Logout: */
+
+/* Line 3: */
+border: 2px solid #979797;
+
+font-family: AvenirNext-Regular;
+font-size: 40px;
+color: #000000;
+line-height: 55px;
+/* Quiz Library: */
+
+/* Rectangle 525: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+border-radius: 8px;
+/* Rectangle 526: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* Fill 19: */
+background: #000000;
+
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Search: */
+
+/* Rectangle 11: */
+background: #D8D8D8;
+
+/* Rectangle 12: */
+background: #D8D8D8;
+
+/* Rectangle 14: */
+background: #D8D8D8;
+
+/* Rectangle 13: */
+background: #D8D8D8;
+
+/* Rectangle 16: */
+background: #D8D8D8;
+
+/* Rectangle 15: */
+background: #D8D8D8;
+
+/* Rectangle 22: */
+background: #D8D8D8;
+
+/* Rectangle 17: */
+background: #D8D8D8;
+
+/* Rectangle 20: */
+background: #D8D8D8;
+
+/* Rectangle 18: */
+background: #000000;
+
+/* Triangle 15: */
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+background: #FFFFFF;
+
+font-family: AvenirNext-UltraLight;
+font-size: 30px;
+color: #FFFFFF;
+line-height: 41px;
+/* Bench Press 10: */
+
+/* Rectangle 19: */
+background: #000000;
+
+/* Triangle 16: */
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+background: #FFFFFF;
+
+font-family: AvenirNext-UltraLight;
+font-size: 30px;
+color: #FFFFFF;
+line-height: 41px;
+/* Bench Press 11: */
+
+/* Rectangle 21: */
+background: #000000;
+
+/* Triangle 18: */
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+background: #FFFFFF;
+
+font-family: AvenirNext-UltraLight;
+font-size: 30px;
+color: #FFFFFF;
+line-height: 41px;
+/* Bench Press 13: */
+
+/* Rectangle 25: */
+background: #D8D8D8;
+
+font-family: AvenirNext-Medium;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Offensive Quiz: */
+
+font-family: AvenirNext-Medium;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Defensive: */
+
+font-family: AvenirNext-Medium;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Offensive Quiz 2: */
+
+font-family: AvenirNext-Medium;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Defensive 2: */
+
+/* Rectangle 23: */
+background: #D8D8D8;
+
+/* Rectangle 24: */
+background: #D8D8D8;
+
+/* Triangle 19: */
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+background: #FFFFFF;
+
+/* Triangle 20: */
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+background: #FFFFFF;
+
+/* Triangle 21: */
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+background: #FFFFFF;
+
+font-family: AvenirNext-Regular;
+font-size: 40px;
+color: #000000;
+line-height: 55px;
+/* USC Trojans Football: */
+
+font-family: AvenirNext-Regular;
+font-size: 60px;
+color: #D0021B;
+line-height: 82px;
+/* X: */
+
+font-family: AvenirNext-Regular;
+font-size: 60px;
+color: #D0021B;
+line-height: 82px;
+/* X 2: */
+
+font-family: AvenirNext-Regular;
+font-size: 60px;
+color: #D0021B;
+line-height: 82px;
+/* X 3: */
+
+font-family: AvenirNext-Regular;
+font-size: 60px;
+color: #D0021B;
+line-height: 82px;
+/* X 6: */
+
+font-family: AvenirNext-Regular;
+font-size: 60px;
+color: #D0021B;
+line-height: 82px;
+/* X 4: */
+
+font-family: AvenirNext-Regular;
+font-size: 60px;
+color: #D0021B;
+line-height: 82px;
+/* X 5: */
+
+font-family: AvenirNext-Regular;
+font-size: 60px;
+color: #D0021B;
+line-height: 82px;
+/* X 9: */
+
+font-family: AvenirNext-Regular;
+font-size: 60px;
+color: #D0021B;
+line-height: 82px;
+/* X 7: */
+
+font-family: AvenirNext-Regular;
+font-size: 60px;
+color: #D0021B;
+line-height: 82px;
+/* X 8: */
+
+border-radius: 8px;
+/* Rectangle 27: */
+background: #D8D8D8;
+border: 1px solid #979797;
+
+/* Line 8: */
+border: 1px solid #979797;
+
+/* Line 9: */
+border: 1px solid #979797;
+
+/* Triangle 22: */
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+
+-webkit-transform: rotate(270deg);
+-moz-transform: rotate(270deg);
+-ms-transform: rotate(270deg);
+-o-transform: rotate(270deg);
+transform: rotate(270deg);
+background: #4A90E2;
+
+/* Triangle 23: */
+background: #4A90E2;
+
+/* Rectangle 26: */
+background: #2E629B;
+-moz-box-shadow:    inset 2px 2px 3px 0px rgba(0,0,0,0.50), inset -2px -2px 3px 0px rgba(0,0,0,0.50);
+box-shadow:         inset 2px 2px 3px 0px rgba(0,0,0,0.50), inset -2px -2px 3px 0px rgba(0,0,0,0.50);
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Upload 3: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #FFFFFF;
+line-height: 27px;
+/* Library 3: */
+
+font-family: AvenirNext-UltraLight;
+font-size: 20px;
+color: #000000;
+line-height: 27px;
+/* Results 2: */
+
+font-family: AvenirNext-Medium;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Offensive Quiz 3: */
+
+font-family: AvenirNext-Medium;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Defensive 3: */
+
+font-family: AvenirNext-Medium;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Defensive 6: */
+
+font-family: AvenirNext-Medium;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Defensive 4: */
+
+font-family: AvenirNext-Medium;
+font-size: 30px;
+color: #000000;
+line-height: 41px;
+/* Defensive 5: */
